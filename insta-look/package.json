@@ -1,0 +1,15 @@
+{
+  "name": "Insta Explorer",
+  "version": "1.0",
+  "description": "Instagram Explorer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nilutpol",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "materialize": "^1.0.0"
+  }
+}
