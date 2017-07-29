@@ -27,7 +27,7 @@ app.get(/^(.+)$/, function (req, res) {
     res.sendFile(__dirname + req.params[0]);
 });
 
-var port = 5001;
+var port = 8080;
 app.listen(port, function () {
     console.log("Listening on " + port);
 });
