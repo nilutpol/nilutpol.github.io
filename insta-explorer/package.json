@@ -12,7 +12,8 @@
   "dependencies": {
     "express": "^4.15.2",
     "materialize": "^1.0.0",
-    "bluebird": "^3.5.0"
+    "bluebird": "^3.5.0",
+    "underscore": "^1.8.3"
   },
 
   "devDependencies": {
